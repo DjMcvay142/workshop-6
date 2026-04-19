@@ -1,6 +1,6 @@
 
 > Open this page at [https://djmcvay142.github.io/workshop-6/](https://djmcvay142.github.io/workshop-6/)
-
+Workshop 6
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
